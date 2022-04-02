@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0b20a0dcf824dcb9",
+        "id": "498a8efd791a46ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Uniform Random Variable.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "a29331fc1e7ec1b7"
+      },
+      {
+        "id": "b7cc4ccfa45a6fa1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Uniform Random Variable.md",
+            "mode": "source"
+          }
+        },
+        "group": "a29331fc1e7ec1b7"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Uniform Random Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +99,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b20a0dcf824dcb9",
+  "active": "498a8efd791a46ab",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled.md"
+    "Uniform Random Variable.md",
+    "Untitled 1.md",
+    "Continuous Uniform Distribution.md",
+    "Central Limit Theorem.md",
+    "Exponential Distribution.md",
+    "Normal Distribution.md",
+    "README.md"
   ]
 }
