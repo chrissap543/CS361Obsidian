@@ -1,0 +1,2 @@
+# Degrees of Freedom
+Our bias in the [[Population Standard Deviation]] comes that from knowing $N-1$ terms, you can infer the last one. Therefore, we have $N-1$ degrees of freedom in the [[Population Standard Deviation]] reflected through the denominator of the [[Unbiased Standard Deviation]]. 

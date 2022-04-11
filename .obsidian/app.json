@@ -2,5 +2,5 @@
   "promptDelete": false,
   "tabSize": 2,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": false
 }

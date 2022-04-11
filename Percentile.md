@@ -1,0 +1,2 @@
+# Percentile
+Similar to a [[Quantile]], split the data into 100 equal parts. Then, we say that a data point is in the $k$th percentile if $k$ parts are less than that data point or, equivalently, $k\%$ of the data is less than the data point. 
