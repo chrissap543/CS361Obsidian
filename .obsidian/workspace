@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Significance.md",
+            "file": "Confidence Intervals for Population Means.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Significance.md",
+            "file": "Confidence Intervals for Population Means.md",
             "mode": "preview",
             "source": true
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "uniform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Significance.md",
+                "file": "Confidence Intervals for Population Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "6d93bc740541fdf0",
   "lastOpenFiles": [
+    "Confidence Intervals for Population Means.md",
+    "Central Limit Theorem.md",
+    "Continuous Uniform Distribution.md",
+    "Exponential Distribution.md",
+    "Unbiased Standard Deviation.md",
+    "Normal Distribution.md",
     "Significance.md",
-    "Probability Distribution of Sample Mean.md",
-    "Sample Mean.md",
-    "T-Distribution.md",
-    "Percentile.md",
-    "Quantile.md",
-    "Bootstrap.md",
-    "Test Statistic.md",
-    "Approximating Binomials.md",
-    "Standard Normal Distribution.md"
+    "P-Value.md",
+    "Test Hypothesized Mean.md",
+    "Test Statistic.md"
   ]
 }
