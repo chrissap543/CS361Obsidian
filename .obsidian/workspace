@@ -7,8 +7,12 @@
         "id": "82007bdf475ccaab",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Covariance.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Covariance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "82007bdf475ccaab",
   "lastOpenFiles": [
+    "Covariance.md",
     "Conjugate Prior.md",
     "Conjugate Priors for Likelihood Functions.md",
     "Likelihood Functions.md",
@@ -92,7 +98,6 @@
     "Bootstrap.md",
     "Bayesian Inference.md",
     "Standard Error.md",
-    "Population Standard Deviation.md",
-    "Unbiased Standard Deviation.md"
+    "Population Standard Deviation.md"
   ]
 }
