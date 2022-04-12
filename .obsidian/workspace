@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6d93bc740541fdf0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Confidence Intervals for Population Means.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "e8c53728d6116af6"
-      },
-      {
         "id": "f533f25e5b887fa8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Confidence Intervals for Population Means.md",
+            "file": "Bootstrap.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "f64c60bddc5a3b9a"
+      },
+      {
+        "id": "8df9e3df1b875ad4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bootstrap.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "e8c53728d6116af6"
+        "group": "f64c60bddc5a3b9a"
       }
     ],
     "direction": "vertical"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniform",
+                "query": "beta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Confidence Intervals for Population Means.md",
+                "file": "Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d93bc740541fdf0",
+  "active": "f533f25e5b887fa8",
   "lastOpenFiles": [
-    "Confidence Intervals for Population Means.md",
-    "Central Limit Theorem.md",
-    "Continuous Uniform Distribution.md",
+    "Bootstrap.md",
+    "Conjugate Prior.md",
+    "Likelihood Functions.md",
     "Exponential Distribution.md",
-    "Unbiased Standard Deviation.md",
-    "Normal Distribution.md",
-    "Significance.md",
-    "P-Value.md",
-    "Test Hypothesized Mean.md",
-    "Test Statistic.md"
+    "Covariance Matrix.md",
+    "Covariance.md",
+    "MAP Estimate.md",
+    "Conjugate Priors for Likelihood Functions.md",
+    "Beta Distribution.md",
+    "Bayesian Inference.md"
   ]
 }
